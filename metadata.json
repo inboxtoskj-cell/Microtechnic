@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Micro Technic BOM Intelligence",
+  "description": "High-fidelity BOM intelligence workflow for electronics manufacturing, automating manual mapping, SiliconExpert validation, Business Central matching, and exception review.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
